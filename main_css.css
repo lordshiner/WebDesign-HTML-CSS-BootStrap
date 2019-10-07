@@ -1,0 +1,163 @@
+.pg {
+    background-color: rgb(150, 150, 150);
+    
+}
+
+a { color: white; }
+a:hover { color: white; }
+
+
+.navbar {
+    background-color: white;
+   }
+
+.nav0 {
+    margin-top: 1px;
+    margin-bottom: 1px;
+ }
+
+.nav-1{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    padding: 8px;
+    vertical-align: middle;
+    background-color: rgb(23, 161, 161);
+       
+}
+
+.butt {
+    
+    background-color: white;
+    color: rgb(145, 142, 142);
+    border-block-color: white;
+    padding-right: 5px;
+    margin-right: 10px;
+}
+
+.back {
+    display: block;
+    height:100%;
+    width:100%;
+    box-sizing:border-box;
+}
+
+.box-set {
+    display: inline-block;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    
+
+   }
+    
+  .box-1 {
+    display: block;
+    height:100%;
+    float: left;
+    width: 59%;
+    background: white;
+    box-sizing: match-parent;
+    text-align: center;
+    border: thin rgb(61, 61, 61) solid;
+    box-sizing:border-box;
+    padding: 2%
+  }
+  
+  .box-2 {
+    float: right;
+    width: 39%;
+    box-sizing: match-parent;
+    background: white;
+    text-align: center;
+    border: thin rgb(61, 61, 61) solid;
+    padding: 2%;
+  }
+
+  .box-3 {
+    float: center;
+    display: inline-flexbox;
+    width: 100%;
+    height: 25%;
+    background: white;
+    text-align: center;
+    border: thin rgb(61, 61, 61) solid;
+    padding: 1%;
+  }
+
+
+  .image1 {
+      float: left;
+      position: relative;
+      width: 45%;
+      height: 45%;
+      box-sizing:border-box;
+      padding: 10px;
+        }
+/* Visualization View */
+
+.visual {
+    float: Top;
+    position: relative;
+    width: 90%;
+    height: 90%;
+    box-sizing:border-box;
+      }
+
+
+
+.p{
+    font-size: 14px;
+    text-align: justify;
+    padding-left: 5px;
+ }
+
+.h3{
+    position: relative;
+    font: bold large serif;
+    font-size: 28px;
+    color: rgb(23, 161, 161);
+    text-align: left;
+}
+.h6{
+    font: serif;
+    font-size: 10px;
+    color: rgb(41, 65, 65);
+    text-align: center;
+}
+.comp{
+    padding: 0px;
+    min-height: auto;
+}
+
+
+    .comp-1{
+    vertical-align: top;
+    float: left;
+    width: 50%;
+    height: 40%;
+    box-sizing:border-box
+}
+
+.comp-2{
+    vertical-align: top;
+    float: right;
+    width: 50%;
+    height: 40%;
+    box-sizing:border-box
+}
+.comp-3{
+    vertical-align: bottom;
+    float: left;
+    width: 50%;
+    height: 40%;
+    box-sizing:border-box
+}
+
+.comp-4{
+    vertical-align: bottom;
+    float: right;
+    width: 50%;
+    height: 40%;
+    box-sizing:border-box
+}
+
